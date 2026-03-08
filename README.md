@@ -17,5 +17,6 @@ Efficient class-based Java programs for beginners covering arrays, strings, date
 
 1. Clone the repository:  
    ```bash
-   https://github.com/shakil-shk/java-basics-practice-problems.git
+   https://github.com/shakil-shk/JAVA-Practice-Problems.git
+
 
