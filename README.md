@@ -1,22 +1,19 @@
-# 🚀 Java Basics Practice
-
-A **handpicked collection of Java programs** to strengthen your DSA programming skills.  
-Efficient class-based Java programs for beginners covering arrays, strings, dates, collections, and core DSA topics.  
+# 🚀 Python & Java Practice
+🌱 Python and Java exercises covering arrays, strings, loops, and data structures — core programming fundamentals through practice.
 
 ---
 
-## 🚀 Features
-
-- ✅ Hands-on Java practice for beginners using class-based examples  
-- ✅ Covers **numbers, arrays, strings, dates, collections, and various DSA topics**  
-- ✅ Step-by-step programs to **reinforce core concepts**  
+## Features
+- ✅ Hands-on practice in both Python and Java using clear, structured examples
+- ✅ Covers numbers, arrays, strings, dates, collections, and core DSA topics
+- ✅ Step-by-step programs to reinforce fundamental concepts
 
 ---
 
 ## 📌 Getting Started
+1. Clone the repository:
+```bash
+   git clone https://github.com/shakil-shk/Problems-Archive.git
+```
 
-1. Clone the repository:  
-   ```bash
-   https://github.com/shakil-shk/JAVA-Practice-Problems.git
-
-
+That's pulled from your repo link (`Problems-Archive`), just converted to the actual clone URL format instead of the edit link.
